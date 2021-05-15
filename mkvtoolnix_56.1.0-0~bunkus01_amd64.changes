@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Fri, 09 Apr 2021 18:11:48 +0200
+Source: mkvtoolnix
+Binary: mkvtoolnix mkvtoolnix-gui
+Architecture: amd64
+Version: 56.1.0-0~bunkus01
+Distribution: groovy
+Urgency: low
+Maintainer: Moritz Bunkus <moritz@bunkus.org>
+Changed-By: Moritz Bunkus <moritz@bunkus.org>
+Description:
+ mkvtoolnix - Set of command-line tools to work with Matroska files
+ mkvtoolnix-gui - Set of tools to work with Matroska files - GUI frontend
+Changes:
+ mkvtoolnix (56.1.0-0~bunkus01) groovy; urgency=low
+ .
+   * New version.
+Checksums-Sha1:
+ ba70b171e86272fe15bd5f43f180d855d7cb1740 3734696 mkvtoolnix-gui_56.1.0-0~bunkus01_amd64.deb
+ 4145f36416c5b3fe19481c9a395a7c7c6b1b7bd5 22651 mkvtoolnix_56.1.0-0~bunkus01_amd64.buildinfo
+ 5248b04dbe6933a7f25d63c533c949246d9fbdb1 5837200 mkvtoolnix_56.1.0-0~bunkus01_amd64.deb
+Checksums-Sha256:
+ e3fc4117637203abb4d379dc165a11aa4dface8eb63bd874516b863945722f33 3734696 mkvtoolnix-gui_56.1.0-0~bunkus01_amd64.deb
+ c0ac3d775a496b6241e1d58fef73c88ed8e693a56ea12919ef81ffb764a95a2d 22651 mkvtoolnix_56.1.0-0~bunkus01_amd64.buildinfo
+ f5fec8cbe613973e7cb9413c416933bb7b02b218845902a52767f4f8be77239e 5837200 mkvtoolnix_56.1.0-0~bunkus01_amd64.deb
+Files:
+ 7c3cf45f2e7befc0ff1ebb14fd280188 3734696 video optional mkvtoolnix-gui_56.1.0-0~bunkus01_amd64.deb
+ 5e53eda67a362674032c8749cec67cca 22651 video optional mkvtoolnix_56.1.0-0~bunkus01_amd64.buildinfo
+ fbca38f86ca1e136db0d11c4df2bb8c7 5837200 video optional mkvtoolnix_56.1.0-0~bunkus01_amd64.deb
